@@ -1,0 +1,7 @@
+# tested with Python 3.10 and the versions in brackets
+numpy>=1.22        # 2.1.1
+scipy>=1.9         # 1.14.1  (ConvexHull, Delaunay, linprog/HiGHS)
+networkx>=3.0      # 3.4.2   (planarity, Girvan-Newman, VF2)
+ase>=3.22          # 3.24.0  (structure I/O, neighbour lists)
+spglib>=2.5        # 2.6.0   (layer groups)
+pandas>=1.5        # 2.2.3   (scripts/run_dataset.py only)

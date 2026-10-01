@@ -1,0 +1,9 @@
+# Rank-0 Pareto front of dataset/ (minimise E0/N, maximise PBE gap; a negative gap counts as 0)
+# each folder: CONTCAR (relaxed), POSCAR (unrelaxed input), energy.txt (E0, eV), gap.txt (PBE gap, eV)
+# folder       composition      natoms   E0/N (eV)  gap (eV)
+  R2B-128_002  (C24)2(C20)4        128    -8.42070    0.1588
+  R1S-68_032   (C24)2(C20)1         68    -8.38969    0.2770
+  R2B-88_031   (C24)2(C20)2         88    -8.38729    0.5582
+  REF-37       (C24)1(C20)2         64    -8.37694    0.7799
+  REF-48       (C24)1(C20)2         64    -8.35917    1.1926
+  R1S-68_024   (C24)2(C20)1         68    -8.26824    1.4434
